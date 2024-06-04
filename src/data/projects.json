@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Real Estate Website",
+    "imageSrc": "projects/project2.jpg",
+    "description": "Developed a full-stack real estate application using MERN stack (MongoDB, Express.js, React, and Node.js), property listing, booking, and image upload capabilities with form validations.",
+    "skills": ["React", "Express","Mongodb"],
+    "demo": "https://github.com/Adityabhartiit/Real-State-Project",
+    "source": "https://github.com/Adityabhartiit/Real-State-Project"
+  },
+  {
+    "title": "Responsive GYM Website",
+    "imageSrc": "projects/project1.jpg",
+    "description": "Created a dynamic and responsive GYM website, implementing interactive features such as plan offerings and an informative 'About' section to enhance user engagement.",
+    "skills": ["React", "CSS", "JavaScript"],
+    "demo": "https://mygymwebsite.pages.dev/",
+    "source": "https://github.com/Adityabhartiit/Gym-Website-Project"
+  },
+  {
+    "title": " Traffic Light Controller",
+    "imageSrc": "projects/project3.jpg",
+    "description": "Traffic Light Controller | Keil uvision 5, C++ Github and Implemented interrupts and UART communication to enhance project functionality and interactivit.",
+    "skills": ["C++", "Embedded C"],
+    "demo": "https://github.com/Adityabhartiit/4-Lane-Traffic-light-Using-TM4C123GH6PM/blob/main/WhatsApp%20Video%202024-04-07%20at%2010.02.26%20PM.mp4",
+    "source": "https://github.com/Adityabhartiit/4-Lane-Traffic-light-Using-TM4C123GH6PM"
+  }
+]
