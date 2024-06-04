@@ -1,5 +1,5 @@
 import React from 'react';
-import './Footer.css'; // Assuming you save the CSS file as Footer.css
+import './footer.css'; // Assuming you save the CSS file as Footer.css
 import { getImageUrl } from "../../utils";
 const Footer = () => {
   return (
