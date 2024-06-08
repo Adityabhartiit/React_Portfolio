@@ -40,7 +40,7 @@ const Particle = () => {
           quantity: 4,
         },
         repulse: {
-          distance: 10,
+          distance: 150,
           duration: 0.4,
         },
       },
@@ -51,7 +51,7 @@ const Particle = () => {
       },
       links: {
         color: "#ffffff",
-        distance: 50,
+        distance: 150,
         enable: true,
         opacity: 0.5,
         width: 1,
